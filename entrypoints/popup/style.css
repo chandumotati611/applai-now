@@ -1,0 +1,28 @@
+:root {
+  font-family: Arial, sans-serif;
+  color: #202923;
+  background: #f4f6f2;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body {
+  width: 390px;
+  min-width: 320px;
+  min-height: 540px;
+  margin: 0;
+  background: #f4f6f2;
+}
+
+body {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+button,
+input {
+  font: inherit;
+}
